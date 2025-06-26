@@ -9,12 +9,16 @@ Iskompass is an intuitive and user-friendly map application designed specificall
 
 ## 🖥️ Technology Used 
 Python: A versatile programming language used for automation, data processing, and backend development.  
+Figma: A cloud-based design tool for developing a user-friendly interface of Iskompass.   
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
 </p>
+
+
+
 
 ## 📱 User Interface
 
